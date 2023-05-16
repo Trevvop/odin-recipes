@@ -1,0 +1,40 @@
+html {
+    background: url(img/ingredients.jpeg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+body {
+    background-color: rgba(211, 211, 211, 0.233);
+    color: rgb(22, 33, 53) ;
+    font-size: 23px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 30px;
+    
+}
+
+h1,
+h3,
+h4  {
+    color: rgb(13, 96, 134);
+    text-decoration: underline;
+
+}
+
+button {
+    background-color: rgb(161, 196, 226);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+#chef {
+    width: 1000px;
+    height: auto;
+}
+
+#pan,
+#buf,
+#noods {  
+    width: 900px;
+    height: 500px;
+}
+
